@@ -1,0 +1,51 @@
+;;;;;;;;;;;
+Pri vnašanju pazite na naslednje omejitve:;;;;;;;;;;;
+"1. polja ""Zap. št. ure"" morajo vsebovati samo številke in ne sme biti prazno";;;;;;;;;;;
+"2. polje ""Kratek naziv ure"" lahko vsebuje največ 100 znakov in ne sme biti prazno (če boste polje pustili prazno, bo sistem sam vnesel nazive ""Učna ura 1"", ""Učna ura 2"", …).";;;;;;;;;;;
+"3. polje ""Podrobno opis učne ure"" lahko vsebuje poljubno število znakov. V tem polju napišite podroben opis učne ure.";;;;;;;;;;;
+"4. polje ""Naziv skupine"" se bo izpolnilo, ko boste izvažali realizirano učno snov, pri predmetih kjer je oddelek razdeljen v skupine. Pri uvažanju se skupine ne bodo upoštevale.";;;;;;;;;;;
+Kratica programa:;OS;;;;;;;;;;
+Kratica predmeta:;NTE;;;;;;;;;;
+Letnik:;4;;;;;;;;;;
+Naziv skupine:;;;;;;;;;;;
+Predmet:;Neobvezni izbirni – tehnika;;;;;;;;;;
+Zaporedna št. ure;Kratek naziv ure (največ 100 znakov);Podrobni opis učne ure;Datum učne ure;sklop;št. ur;zap. Ura;priprava;pripomočki;oblike;metode;koren_priprave
+1;Uvodna ura;varnost pri delu;4. 9. 2017;Uvod;5;1;ucni_cilji.md;Računalnik, projektor;frontalno, individualno;razgovor, razlaga;https://raw.githubusercontent.com/miharix/pouk-tehnika/master/TIT6/
+2;Papir;spinner;11. 9. 2017;Papirna gradiva;5;2;priporoceni_sklopi.md;Računalnik, projektor;frontalno, individualno;razgovor, razlaga;https://raw.githubusercontent.com/miharix/pouk-tehnika/master/TIT6/
+3;Papir;spinner;18. 9. 2017;;;;;;;;
+4;Papir;izdelajmo recikiliran papir;25. 9. 2017;;;;;;;;
+5;Papir;izdelajmo recikiliran papir;2. 10. 2017;;;;;;;;
+6;Papir;izdelajmo recikiliran papir;9. 10. 2017;;;;;;;;
+7;Papir;Embalaža;16. 10. 2017;;;;;;;;
+8;Izdelek iz lesa;Označevanje in žaganje;23. 10. 2017;;;;;;;;
+9;Označevanje in žaganje ;;6. 11. 2017;;;;;;;;
+10;Izdelek iz lesa;Označevanje in žaganje;13. 11. 2017;;;;;;;;
+11;Izdelek iz lesa;Označevanje in žaganje;20. 11. 2017;;;;;;;;
+12;Izdelek iz lesa;Označevanje in žaganje;27. 11. 2017;;;;;;;;
+13;Izdelek iz lesa;Označevanje, žaganje, brušenje;4. 12. 2017;;;;;;;;
+14;Izdelek iz lesa;Označevanje, žaganje, brušenje,lepljenje;11. 12. 2017;;;;;;;;
+15;Izdelek iz lesa;Označevanje, žaganje, brušenje,lepljenje;18. 12. 2017;;;;;;;;
+16;Izdelek iz lesa;Označevanje, žaganje, brušenje,lepljenje;8. 1. 2018;;;;;;;;
+17;Izdelek iz lesa;lepljenje, mazanje ;15. 1. 2018;;;;;;;;
+18;Izdelek iz lesa;lepljenje, mazanje;22. 1. 2018;;;;;;;;
+19;Izdelek iz lesa;Ocenjevanje;29. 1. 2018;;;;;;;;
+20;Izdelek iz pločevine;tolčenje motiva;5. 2. 2018;;;;;;;;
+21;Izdelek iz pločevine;tolčenje motiva;12. 2. 2018;;;;;;;;
+22;Izdelek iz lesa;"Izdelek po lastni domišljiji z narisano skico.
+ material: kvadratni kosi lesa";26. 2. 2018;;;;;;;;
+23;Izdelek iz lesa;"Izdelek po lastni domišljiji z narisano skico.
+ material: kvadratni kosi lesa";5. 3. 2018;;;;;;;;
+24;Izdelek iz lesa;"Izdelek po lastni domišljiji z narisano skico.
+ material: kvadratni kosi lesa";12. 3. 2018;;;;;;;;
+25;Izdelek iz lesa;"Izdelek po lastni domišljiji z narisano skico.
+ material: kvadratni kosi lesa";19. 3. 2018;;;;;;;;
+26;;;;;;;;;;;
+27;;;;;;;;;;;
+28;;;;;;;;;;;
+29;;;;;;;;;;;
+30;;;;;;;;;;;
+31;;;;;;;;;;;
+32;;;;;;;;;;;
+33;;;;;;;;;;;
+34;;;;;;;;;;;
+35;;;;;;;;;;;
